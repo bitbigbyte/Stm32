@@ -28,5 +28,9 @@ led/main.o: ..\Core\Src\main.c ..\Core\Inc\main.h \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim.h \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h \
-  ..\Core\Inc\tim.h ..\Core\Inc\gpio.h ..\Core\Inc\pwm.h \
-  ..\Core\Inc\interrupt.h
+  C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h \
+  D:\App\keil5\ARM\ARMCLANG\include\stdio.h \
+  D:\App\keil5\ARM\ARMCLANG\include\string.h \
+  D:\App\keil5\ARM\ARMCLANG\include\stdlib.h ..\Core\Inc\dma.h \
+  ..\Core\Inc\tim.h ..\Core\Inc\usart.h ..\Core\Inc\gpio.h \
+  ..\Core\Inc\pwm.h ..\Core\Inc\interrupt.h

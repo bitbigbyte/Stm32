@@ -4,7 +4,9 @@
 "led\pwm.o"
 "led\main.o"
 "led\gpio.o"
+"led\dma.o"
 "led\tim.o"
+"led\usart.o"
 "led\stm32f4xx_it.o"
 "led\stm32f4xx_hal_msp.o"
 "led\stm32f4xx_hal_tim.o"
@@ -22,6 +24,7 @@
 "led\stm32f4xx_hal_cortex.o"
 "led\stm32f4xx_hal.o"
 "led\stm32f4xx_hal_exti.o"
+"led\stm32f4xx_hal_uart.o"
 "led\system_stm32f4xx.o"
 --strict --scatter "led\led.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols

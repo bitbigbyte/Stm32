@@ -31,8 +31,15 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#define BUF_SIZE 	255
+extern uint8_t buf[BUF_SIZE];
 extern TIM_HandleTypeDef htim1;
 extern TIM_HandleTypeDef htim2;
+extern UART_HandleTypeDef huart2;
+extern DMA_HandleTypeDef hdma_usart2_rx;
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/

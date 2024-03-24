@@ -28,4 +28,5 @@ led/stm32f4xx_hal_flash_ex.o: \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
   C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim.h \
-  C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h
+  C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h \
+  C:\Users\34582\STM32Cube\Repository\STM32Cube_FW_F4_V1.28.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h
